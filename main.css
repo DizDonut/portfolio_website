@@ -1,0 +1,79 @@
+body {
+  font-family: "Assistant", 'sans-serif';
+  background-image: url("http://i441.photobucket.com/albums/qq132/mikebec20/beer3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.wallpaper {
+  background-image: url("http://i441.photobucket.com/albums/qq132/mikebec20/Olympic%20Stadium.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin-top: 40px;
+  padding: 20%;
+  background-attachment: fixed;
+  background-position: center -238px;
+  opacity: 0.8;
+}
+
+.center {
+  background-color: #1d2435;
+  text-align: center;
+  color: #9F9F9F;
+  width: auto;
+  position: relative;
+  opacity: 0.9;
+}
+
+.site-features {
+  padding: 5% 0%;
+}
+
+.site-features p {
+  text-align: center;
+  font-size: 1.1em;
+  padding-top: 10px;
+  color: #fff;
+}
+
+.img-responsive {
+  opacity: 0.5;
+  border-style: solid;
+  border-color: #1d2435;
+  border-width: thick;
+  margin-bottom: 25px;
+}
+
+.img-responsive:hover {
+  opacity: 1.0;
+}
+
+footer {
+background-color: #1D2435;
+position: absolute;
+width: 100%;
+height: auto;
+opacity: 0.7;
+}
+
+footer ul li {
+  display: inline-block;
+  padding: 2%;
+  list-style: none;
+  font-weight: bolder;
+  font-size: 1.2em;
+  float: right;
+}
+
+footer p {
+  float: left;
+  padding: 2%;
+  font-weight: bolder;
+}
+
+footer a, footer p {
+  color: #fff;
+  vertical-align: middle;
+}
